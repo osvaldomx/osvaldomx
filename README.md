@@ -6,7 +6,7 @@ I am a Machine Learning and Full Stack Developer with a Master Degree in Compute
 
 | Media | Summary |
 | ----- | ------- |
-|[Website ](https://osvicode.mx)| Personal blog|
+|[Website ](https://osvidev.com)| Personal blog|
 |[LinkedIn ](https://linkedin.com/in/osvaldo-trujillo)| I share content about my experinece|
 |[Twitter ](https://twitter.com/osvimx)| I share content about Data Science and personal opinions|
 
